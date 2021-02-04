@@ -1,3 +1,4 @@
 pytesseract
 opencv-python
 pillow
+PyQt5

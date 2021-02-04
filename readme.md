@@ -14,6 +14,8 @@
 
 한국어 추가
 
+이후 tesseract 환경변수 추가
+
 or stable Version.. download
 
 [https://github.com/tesseract-ocr/tesseract/releases/tag/4.1.1](https://github.com/tesseract-ocr/tesseract/releases/tag/4.1.1)

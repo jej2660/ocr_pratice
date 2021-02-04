@@ -15,9 +15,18 @@
 한국어 추가
 
 이후 tesseract 환경변수 추가
+[기본경로]
+```
+Install for anyone using the computer
+C:\Program Files\Tesseract-OCR
 
-or stable Version.. download
+install just for me
+C:\Users\[USER_NAME]\AppData\Local\Programs\Tesseract-OCR
+```
+![ista11](https://user-images.githubusercontent.com/39151805/106923921-e95b0380-6751-11eb-9e9e-9444d3aa8d79.png)
 
+
+안정화 버전
 [https://github.com/tesseract-ocr/tesseract/releases/tag/4.1.1](https://github.com/tesseract-ocr/tesseract/releases/tag/4.1.1)
 
 ### build

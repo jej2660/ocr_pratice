@@ -9,7 +9,7 @@
 
 다운로드가 느리다면 아래 링크에서 다운로드 하세요!
 
-[https://drive.google.com/file/d/19S1EQWA7bL0RN-7NWrNt0fbY_Cc2-UFS/view?usp=sharing](https://drive.google.com/file/d/19S1EQWA7bL0RN-7NWrNt0fbY_Cc2-UFS/view?usp=sharing)
+[https://drive.google.com/file/d/1pNMybpTP9Flsew6eGybyzeE5kGeIW6y4/view?usp=sharing](https://drive.google.com/file/d/1pNMybpTP9Flsew6eGybyzeE5kGeIW6y4/view?usp=sharing)
 ![install](https://user-images.githubusercontent.com/39151805/106919417-794a7e80-674d-11eb-9593-daca519e588f.png)
 
 한국어 추가
